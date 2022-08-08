@@ -11,8 +11,8 @@
      1 directory, 5 files (Sat Jul 30 01:08:17 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/mZone--ILI9341--demo1
+Note: URL = https://github.com/hohno-46466/mZone--ILI9341--demo1
 
-Note: url = git@github.com:hohno-46466/mZone--ILI9341--demo1.git
+Note: URL = git@github.com:hohno-46466/mZone--ILI9341--demo1.git
 
 -EOF-
